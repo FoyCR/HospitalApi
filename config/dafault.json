@@ -1,0 +1,7 @@
+{
+    "port": 5001,
+    "environment": "Default",   
+    "door": "concandado",
+    "toctoc": "nocontesta", 
+    "open": "cerrada"
+}

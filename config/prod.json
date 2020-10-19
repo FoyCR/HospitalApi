@@ -1,0 +1,8 @@
+{
+    "port": 5001,
+    "environment": "Prod",
+    "jwt_secret": "this_is_a_top_secret",
+    "door": "concandado",
+    "toctoc": "nocontesta", 
+    "open": "cerrada"
+}
